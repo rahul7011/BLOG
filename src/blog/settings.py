@@ -38,10 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'allauth',
+    'allauth',  #allauth
     'allauth.account',
     'allauth.socialaccount',
-    'crispy_forms',
+    'crispy_forms', #crispy forms
     'posts',
 ]
 
