@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+<!-- This is handling both create and update view -->
+{% block content %}
+<div class="container">
+    <h2 class="text-capitalize mt-4">this is the {{ view_type|title }} view</h2>
+    <form method="POST" enctype='multipart/form-data'>
+        {% csrf_token %}
+        {{form|crispy}}
+        <button class="btn btn-danger">{{view_type}}</button>
+    </form>
+</div>
+{% endblock content %}
