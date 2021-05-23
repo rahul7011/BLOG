@@ -27,11 +27,19 @@ https://user-images.githubusercontent.com/52202163/119266605-151ece00-bc09-11eb-
  <tr>
   <td>
    <img width="420" alt="DMP1" src="https://user-images.githubusercontent.com/52202163/119264480-06ccb400-bc01-11eb-955b-37430edf8c30.png">
+  </td>
+  <td>
    <img width="420" alt="DMP2" src="https://user-images.githubusercontent.com/52202163/119265113-3381cb00-bc03-11eb-9585-cab1384111e5.png">
+  </td>
+ </tr>
+ <tr>
+  <td>
    <img width="420" alt="DMP3" src="https://user-images.githubusercontent.com/52202163/119264490-0d5b2b80-bc01-11eb-9044-db0834b529a2.png">
+  </td>
+  <td>
    <img width="420" alt="DMP4" src="https://user-images.githubusercontent.com/52202163/119264491-0df3c200-bc01-11eb-865e-6964615ca7c0.png">
-   <td/>
-  <tr/>
+   </td>
+  </tr>
  </table>
 
 
